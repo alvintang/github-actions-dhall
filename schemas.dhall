@@ -3,7 +3,7 @@
       sha256:7d1c476fa1af0109b9e7faf740e1c0abd074e5b631832c8d1311a5f80a97a048
 , On =
     ./schemas/On.dhall
-      sha256:13901066bfb64792e51b5db761d526342db32ddafcc0ae08799e61150303b0d3
+      sha256:de38c013f0154e5e032b3c7d6c4ed5b65af56c300bfed81586ea3525614d3daf
 , RunsOn =
     ./schemas/RunsOn.dhall
       sha256:86f5d1f0c5dc24b2033237a9194f70b14326d6bae031bd44a0630e45dd3a4b3a
@@ -18,7 +18,7 @@
       sha256:ccf7857f3b39aba24ae09b6eb2b430c96be6b3bc697ed6f0bae464e1e7bdff82
 , Workflow =
     ./schemas/Workflow.dhall
-      sha256:5c864784c0d5540572eb9e01215d93b7c1dd6f15ef2451464c9f4ce80b887f6c
+      sha256:d9f883b1478caacef32e9bfff08c3578ed36436d6d6867a558d67b8ca2e207b3
 , Push =
     ./schemas/events/Push.dhall
       sha256:3c33a2e62eaf486ef35cec2344dac9c5c5ec032470b92714018803f9824db9a0
@@ -36,6 +36,9 @@
       sha256:f15ab36ac38cb32a757173088ec95050e3cb3fe8765bd1d4cc49851cec7877d8
 , WorkflowDispatch =
     ./schemas/events/WorkflowDispatch.dhall
+      sha256:f3243d9aaa461034e9844d51fb4e2c646a956ea3df2d1f12ae31e16ee29b1a55
+, WorkflowCall =
+    ./schemas/events/WorkflowCall.dhall
       sha256:f3243d9aaa461034e9844d51fb4e2c646a956ea3df2d1f12ae31e16ee29b1a55
 , Release =
     ./schemas/events/Release.dhall
