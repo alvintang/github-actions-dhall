@@ -3,7 +3,7 @@
       sha256:8e633f97ecc18a9abe878adf4b0b63c07d079c10d05ac96e6d0d7bb13dc7bfb0
 , On =
     ./defaults/On.dhall
-      sha256:74396c523fc99bf5d8334091c8e6ba3ae5ae36ba3cfb60e3c6d3a76b3d58bc25
+      sha256:239677accd794c12db08951f38d6cdfd2c35148b1d9e736a8e8f6d943285a1b8
 , Step =
     ./defaults/Step.dhall
       sha256:fc31ac861cbf0231429dc5d94bf8a1f905fcdf6ec108e376c5c82b60d9ddf5c0
@@ -18,7 +18,7 @@
       sha256:429ab447921ab87a92a45f8e3078a19f0efeef58e859f4648af9c4a2c2976180
 , PullRequest =
     ./defaults/events/PullRequest.dhall
-      sha256:16bd824da08ba557823a66d8bf644b2531a48786830e939da31bf24dd263184d
+      sha256:429ab447921ab87a92a45f8e3078a19f0efeef58e859f4648af9c4a2c2976180
 , PullRequestReview =
     ./defaults/events/PullRequestReview.dhall
       sha256:9adb6b3b154d4f1df647c43579e37be36ac9bbb7848cdba159863220ec52bb9f
